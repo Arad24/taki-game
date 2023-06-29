@@ -4,7 +4,7 @@
 
 # How to run :
 ## Server :
-* Need to download boost files - https://www.boost.org/users/download/
+* You need to download [boost files](https://www.boost.org/users/download/).
 * Set the boost folder path in `VC++ Directories` - `Include Directories`.
   
 ## Client :
