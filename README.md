@@ -1,6 +1,6 @@
 # Taki Game (Next.js / C++)
 
-[What is the game taki](https://en.wikipedia.org/wiki/Taki_(card_game))?
+[What is the game taki?](https://en.wikipedia.org/wiki/Taki_(card_game))
 
 # How to run :
 ## Server :
