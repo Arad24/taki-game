@@ -8,5 +8,5 @@
 * Set the boost folder path in `VC++ Directories` - `Include Directories`.
   
 ## Client :
-* Create Next.js project with tailwind & tsx
+* [Create](https://tailwindcss.com/docs/guides/nextjs) Next.js project with tailwind & tsx
 * Run the command : `npm run dev`
